@@ -1,0 +1,12 @@
+asyncpg
+jishaku
+git+https://github.com/parelite/discord.py
+git+https://github.com/rxnk/Wavelink
+python-dotenv
+rich
+pydantic
+tuuid
+cashews[redis]
+gtts
+expiringdict
+anyio
